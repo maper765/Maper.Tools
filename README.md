@@ -1,3 +1,5 @@
 Support Tools & Services
 
-RC2 encryption
+Encryption
+-RC2
+-Base64
