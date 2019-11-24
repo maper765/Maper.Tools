@@ -1,9 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "A:\\Users\\maper\\.dotnet\\store\\|arch|\\|tfm|",
-      "A:\\Users\\maper\\.nuget\\packages",
-      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-    ]
-  }
-}
