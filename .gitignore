@@ -5,3 +5,7 @@
 /.vs/Colégio Ditigal Projetos TI/v15/Server/sqlite3
 /.vs/Maper.Tools/v15
 /.vs/Maper.Tools/DesignTimeBuild
+/Maper.Library/bin/Debug/netstandard2.0
+/Maper.Library/obj
+/Maper.Tests/bin/Debug/netcoreapp2.1
+/Maper.Tests/obj
