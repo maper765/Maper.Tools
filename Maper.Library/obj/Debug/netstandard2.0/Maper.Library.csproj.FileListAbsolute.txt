@@ -1,9 +1,0 @@
-P:\maper\Maper.Tools\Maper.Library\bin\Debug\netstandard2.0\Maper.Library.deps.json
-P:\maper\Maper.Tools\Maper.Library\bin\Debug\netstandard2.0\Maper.Library.dll
-P:\maper\Maper.Tools\Maper.Library\bin\Debug\netstandard2.0\Maper.Library.pdb
-P:\maper\Maper.Tools\Maper.Library\obj\Debug\netstandard2.0\Maper.Library.csprojAssemblyReference.cache
-P:\maper\Maper.Tools\Maper.Library\obj\Debug\netstandard2.0\Maper.Library.csproj.CoreCompileInputs.cache
-P:\maper\Maper.Tools\Maper.Library\obj\Debug\netstandard2.0\Maper.Library.AssemblyInfoInputs.cache
-P:\maper\Maper.Tools\Maper.Library\obj\Debug\netstandard2.0\Maper.Library.AssemblyInfo.cs
-P:\maper\Maper.Tools\Maper.Library\obj\Debug\netstandard2.0\Maper.Library.dll
-P:\maper\Maper.Tools\Maper.Library\obj\Debug\netstandard2.0\Maper.Library.pdb

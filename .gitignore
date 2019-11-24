@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Colégio Ditigal Projetos TI/v15/Server/sqlite3
+/.vs/Maper.Tools/v15
+/.vs/Maper.Tools/DesignTimeBuild
