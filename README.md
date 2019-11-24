@@ -1,4 +1,4 @@
-Support Tools & Services
+Support Tools & Services .NET Standard 2.0
 
 Encryption
 -RC2
